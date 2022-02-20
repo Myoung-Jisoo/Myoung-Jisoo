@@ -1,16 +1,16 @@
-### Hi there 👋
+# Thank you for visiting my GitHub! :wrench:
+##
 
-<!--
-**Myoung-Jisoo/Myoung-Jisoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Jisoo Myoung, I am a senior majoring in Robotics. :book:
+### I have the following __"skills."__
 
-Here are some ideas to get you started:
+- Programming : C/C++, Python, Matlab
+- Firmware : AVR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 
+If you're interested in my activities, please visit my blog. [:pencil:](https://myoungziis-study.tistory.com/) (:point_left:click this icon)
+####
+
+![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myoung-Jisoo&show_icons=true&theme=swift)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myoung-Jisoo&layout=compact&theme=swift&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
