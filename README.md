@@ -1,7 +1,7 @@
 # Thank you for visiting my GitHub! :wrench:
 ##
 
-### My name is Jisoo Myoung, I am a senior majoring in Robotics. :book:
+### Hi, My name is Jisoo Myoung, and I'm a senior majoring in Robotics. :book:
 ### I have the following __"skills."__
 
 - Programming : C/C++, Python, Matlab
