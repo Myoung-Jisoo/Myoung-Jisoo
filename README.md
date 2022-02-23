@@ -4,7 +4,7 @@
 ### Hi, My name is Jisoo Myoung. I'm a senior majoring in Robotics. :book:
 
 
-### I have the following __"skills."__
+### I have following __"skills."__
 
 - Programming : C/C++, Python, Matlab
 - Firmware : AVR
