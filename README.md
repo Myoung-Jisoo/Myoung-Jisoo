@@ -6,8 +6,7 @@
 
 ### I have following __"skills."__
 
-- Programming : C/C++, Python, Matlab
-- Firmware : AVR
+- Programming : C/C++, Python
 
 #### 
 If you're interested in my activities, please visit my blog. [:pencil:](https://myoungziis-study.tistory.com/) (:point_left:click this icon)
